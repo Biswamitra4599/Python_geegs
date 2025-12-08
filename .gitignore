@@ -3,4 +3,7 @@ data/
 *.pyc
 __pycache__/
 *.pdf
+*.csv
+*.png
+
 
